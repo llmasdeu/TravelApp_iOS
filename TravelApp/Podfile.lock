@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.0.0-rc.3)
+  - lottie-ios (3.1.5)
+  - Realm (4.3.0):
+    - Realm/Headers (= 4.3.0)
+  - Realm/Headers (4.3.0)
+  - RealmSwift (4.3.0):
+    - Realm (= 4.3.0)
+  - StickyHeaderFlowLayout (0.9.4)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.3)
+  - lottie-ios
+  - RealmSwift
+  - StickyHeaderFlowLayout
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - lottie-ios
+    - Realm
+    - RealmSwift
+    - StickyHeaderFlowLayout
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  lottie-ios: 32bf84389337d86fbc8b12266e88452e0abf1dee
+  Realm: 9357c3589555793e1860a7104a7412bca4a48d99
+  RealmSwift: 402f1e379a8ef82c635313037b043f0f06de880c
+  StickyHeaderFlowLayout: 4727f28b5ba0db05bd18a98ce64f5c4c72f661ff
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 6c3007f3493808e4b147986c77da176324157af5
+
+COCOAPODS: 1.8.4
