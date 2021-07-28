@@ -1,2 +1,3 @@
 # TravelApp_iOS
-iOS travels app, coded in Swift
+
+iOS travels app, coded in Swift.
